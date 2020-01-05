@@ -50,7 +50,7 @@
 * Technology makes the effect of the lizard brain taking over bigger so resist acting on your lizard brain, remember to breathe
 * Intuition is powerful, but it is open to bias. Make sure to test it with L-mode
 
-## Chapter 6
+### Chapter 6
 
 * Learning is a DIY job, others can't do it to you.
 * Create SMART goals/objectives
@@ -80,15 +80,74 @@
 * Hand writing gives you a ritual and an inward focus of attention. Try it even if you will never review your notes. Better yet, transcribe your notes digitally later to reinfroce the learning.
 * Teach it, explain it, screencast it, record it, give a talk, write an article
 
-## Chapter 7
+### Chapter 7
 
 * Play before studying the facts.
 * Build to learn, don't learn to build.
 * Fail safely and deliberately.
 
-## Chapter 8
+### Chapter 8
 
 * Meditate, even if it is a few minutes here and there. Focus on your breath and let the distractions float away as they come.
 * Defocusing to let your thought marinate is OK.
 * Rule of 3, you haven't thought enough if you haven't found 3 solutions or 3 failure modes.
 * Manage your desktops, make one for communication and keep it in the background to avoid constant distraction.
+
+### Tips
+
+1. Always consider context.
+    #### Chapter 2
+1. Use rules for novices, intuition for experts.
+1. Know what you don't know.
+1. Learn by watching and imitating.
+1. Keep practicing in order to remain an expert.
+1. Avoid formal methods if you need creativity, intuition, or inventiveness.
+1. Learn the skill of learning.
+    #### Chapter 3
+1. Capture all ideas to get more of them.
+1. Learn by synthesis as well as by analysis.
+1. Strive for good design; it really works better.
+1. Rewire your brain with belief and constant practice.
+    #### Chapter 4
+1. Add sensory experience to engage more of your brain.
+1. Lead wtih R-mode; follow with L-mode.
+1. Use metaphor as the meeting place between L-mode and R-mode.
+1. Cultivate humor to build stronger metaphors.
+1. Step away from the keyboard to solve hard problems.
+1. Change your viewpoint to solve the problem.
+    #### Chapter 5
+1. Watch the outliers: "rarely" doesn"t mean "never".
+1. Be comfortable with uncertainty.
+1. Trust ink over memory; every mental read is a write.
+1. Hedge your bets with diversity.
+1. Allow for different bugs for different people.
+1. Act like you've evolved: breathe, don't hiss.
+1. Trust intuition, but verify.
+    #### Chapter 6
+1. Create SMART objectives to reach your goals.
+1. Plan your investment in learning deliberately.
+1. Discover how you learn best.
+1. Form study groups to learn and teach.
+1. Read deliberately.
+1. Take notes with both R-mode and L-mode.
+1. Write on: documenting is more important than documentation.
+1. See it. Do it. Teach it.
+    #### Chapter 7
+1. Play more in order to learn more.
+1. Learn from similarities; unlearn from differences.
+1. Explore, invent, and apply in your environment - safely.
+1. See without judging and then act.
+1. Give yourself permission to fail; it's the path to success.
+1. Groove your mind to success.
+    #### Chapter 8
+1. Learn to pay attention.
+1. Make thinking time.
+1. Use a wiki to manage information and knowledge.
+1. Establish rules of engagement to manage interrputions.
+1. Send less email, and you'll receive less email.
+1. Choose your own tempo for an email conversation.
+1. Mask interrupts to maintain focus.
+1. Use multiple monitors to avoid context switching.
+1. Optimize your personal workflow to maximize context.
+    #### Chapter 9
+1. Grab the wheel. You can't steer on autopilot.
