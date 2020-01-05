@@ -1,5 +1,7 @@
 ## Pragmatic Thinking & Learning
 
+##### by Andy Hunt
+
 ### Chapter 2
 
 * Dreyfus Model
