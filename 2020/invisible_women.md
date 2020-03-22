@@ -4,4 +4,4 @@
 
 ##### by Caroline Criado-Perez
 
-* The whole book is filled with crazy stuff. Every man should read it.
+* The whole book is filled with crazy stuff. Every man should read it. Women already know it by experience.

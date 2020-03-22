@@ -14,6 +14,6 @@
 * Brag away
 * Find a wingwoman/ally
 * Claim credit
-* Set boundaried to avoid burnout
+* Set boundaries to avoid burnout
 * Do not overapologize
 * Don't take it personal, ask again and again when rejected
