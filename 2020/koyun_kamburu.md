@@ -38,7 +38,8 @@
 ### Alıntılar
 
 * ... anasıyla babası da üçer gün arayla öldüler, on iki yaşında oğlanı sipsivri ortada bıraktılar. Ahmet de elbet göçer giderdi, pislik temizlenirdi ya, ne fayda!
-* Uzun Hoca: Bilmez değilsin ya, gurbet yerinde bazı azapların, bazı ağa karılarından bir alacakları çıkar ki "alacak" diye işte ben ona derim.  Kadir Ağa: Orası öyle... Benim dediğim, bu kahpe, kocası olacak pezevengin sandığını bütün boşaltmış da Ahmet'e mi yüklemiş?
+* Uzun Hoca: Bilmez değilsin ya, gurbet yerinde bazı azapların, bazı ağa karılarından bir alacakları çıkar ki "alacak" diye işte ben ona derim.  
+Kadir Ağa: Orası öyle... Benim dediğim, bu kahpe, kocası olacak pezevengin sandığını bütün boşaltmış da Ahmet'e mi yüklemiş?
 * "Karının saçlısı, tarlanın taşlısı" demişler.
 * Uzun Imam: Sattım gitti Parpar! Var hayrını gör, tepe tepe kullan. (Ayşe'den bahsediyor)
 * Parpar: Elin ağzı kemençe torbası değil ki çekip büzesin de susturasın.
@@ -54,7 +55,8 @@
 * Ne demişler? "Zenginden bir vakit kötülük gelmez"
 * Havuzlu bağın bekçisi Deli Elvan: Döl gütmek gibisi yoktur. ... Dişi itlerle kancık eşeklere dilediğini yaparsın.
 * Çalik Kerim: Köy yerinde dişi it, kancık eşek olmasa, dünyadan "Kız oğlan kız" lafı kalkar.
-* Deli Elvan: Narlıca'nın karısı gibi bilgiç yoktur. .. Yedi yaşındaki kahpeler o işi senden iyi bilir.  Gavur Ali: Işte burasını denk düşüremedin. Ayşe anamızın da o işe aklı yedisinde ermiş.
+* Deli Elvan: Narlıca'nın karısı gibi bilgiç yoktur. .. Yedi yaşındaki kahpeler o işi senden iyi bilir.  
+Gavur Ali: Işte burasını denk düşüremedin. Ayşe anamızın da o işe aklı yedisinde ermiş.
 * Uzun Hoca: Köy yerinde fukara ölmeli, ötesi yok.
 * Karagöz: Namussuz takımı bu medresenin vakıf geliratını çalıp esrara, kumara, karıya, oğlana verir olmuştur. ... Sofu kısmını geç. Sofu takımı her yerde "Hep bana ..." hesabını kollar.
 * Karagöz: Sesin gürse seni aminci tutarlar. Aminci, yani ya, hoca okurken aşka gelmiş olacaksın da var gücünle "Alleeeh" diye naralanacaksın. Her bağırış beş kuruş. Eğer aralıkta hökür hökür ağlamaklığa başlayabilip gözlerinden ip gibi yaş dökebilirsen bir gümüş çeyreğin vardır. Molla kısmının her şeyi paradır, bağırması, salya sümük ağlaması.
