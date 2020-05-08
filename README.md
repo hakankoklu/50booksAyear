@@ -7,3 +7,4 @@
 * [Triggers](./2020/triggers.md)
 * [Feminist Fight Club](./2020/feminist_fight_club.md)
 * [Super Pumped](./2020/super_pumped.md)
+* [Köyün Kamburu](./2020/koyun_kamburu.md)
