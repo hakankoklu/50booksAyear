@@ -8,3 +8,4 @@
 * [Feminist Fight Club](./2020/feminist_fight_club.md)
 * [Super Pumped](./2020/super_pumped.md)
 * [Köyün Kamburu (Türkçe)](./2020/koyun_kamburu.md)
+* [Fluent Forever](./2020/fluent_forever.md)
