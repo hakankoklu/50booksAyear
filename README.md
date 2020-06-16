@@ -9,3 +9,4 @@
 * [Super Pumped](./2020/super_pumped.md)
 * [Köyün Kamburu (Türkçe)](./2020/koyun_kamburu.md)
 * [Fluent Forever](./2020/fluent_forever.md)
+* [Midnight at the Pera Palace](./2020/midnight_pera_palace.md)
