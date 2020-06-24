@@ -10,7 +10,7 @@
 
 ### Grant Hotel
 
-* It was not difficult to see, White said, why Bosphorus boatmen were widely regarded as perfect specimens of Ottoman manliness and reputed by locals to Istanbul's most skillful lovers.
+* It was not difficult to see, White said, why Bosphorus boatmen were widely regarded as perfect specimens of Ottoman manliness and reputed by locals to be Istanbul's most skillful lovers.
 * Rebellious janissaries - the sultan's corps of elite troops and bodyguards - might take out their frustrations by deliberately reducing thousands of houses to ash, leaving iron fixtures twisted, stone foundations exposed, and a third or more of the city in ruins.
 * Most of the old city's seven hills were taken up by monumental mosque complexes, such as the Baroque-style Nuruosmaniye on the second hill, the majestic Suleymaniye on the third, and the Selimiye on the fifth, and this in turn reduced the space available for housing the city's burgeoning population.
 * Even for seasoned travelers, the excitement of approaching the train in a French station never dulled. "I am going by it! I am in it! I am actually in the blue coach with the simple legend outside: CALAIS - ISTANBUL," wrote Agatha Christie of one of her frequent journeys by rail.
@@ -23,16 +23,16 @@
 
 ### Occupation
 
-* On the same day the Allies began their occupation, an Ottoman filed commander names Mustafa Kemal checked into a room in the Pera Palace.
+* On the same day the Allies began their occupation, an Ottoman field commander named Mustafa Kemal checked into a room in the Pera Palace.
 * In that event, the British would need experienced natives like himself to help manage the situation. "What I want to know," Mustafa Kemal said to G. Ward Price, "is the proper quarter to which I can offer my services in that capacity." Price reported his conversation to British officers at the Pera Palace, but the response was dismissive.
-* His energetic hob hunt had also made his name much better known than when he first arrived in Istanbul. By early 1919, Mustafa Kemal seems finally to have come to the attention of Allied authorities, with plans put in place to arrest him and deport him to Malta as a subversive endangering the armistice.
+* His energetic job hunt had also made his name much better known than when he first arrived in Istanbul. By early 1919, Mustafa Kemal seems finally to have come to the attention of Allied authorities, with plans put in place to arrest him and deport him to Malta as a subversive endangering the armistice.
 * Non-Muslims were the city's barkeeps and bankers, its brothel owners and restaurateurs, its exporters and hoteliers. As late as 1922, Greeks still owned 1169 of 1413 restaurants in the city, compared with 97 owned by Muslim Turks, 57 by Armenians, and 44 by Russians.
 
 
 ### Resistance
 
-* The American high commissioner in the city, Admiral Mark Bristol, had sent a raft of telegrams arguing that the partition of the country would inflame the local sentiment against the occupation and provide yet another specific cause around which the nationalists could coalesce. ... News of the Serves accord had precisely the effect that Admiral Bristol and other had predicted. It was one thing for Ottoman officials to give up the outlying parts of the empire but agreeing to the effective partition of Anatolia and the elimination of local control over Istanbul and the Straits was a monumental concession.
-* In early October 1920, King Alexander of Greece went walking with his German shepherd. Along the way, his dog leapt on a Barbary macaque, a monkey that belonged to one of the palace gardeners. Another monkey rallied to the defense, and the king ended up with a severe bite. He thought little of it at the time, but within a few days the bite turned septic. The king took to his bed and died before the month was out
+* The American high commissioner in the city, Admiral Mark Bristol, had sent a raft of telegrams arguing that the partition of the country would inflame the local sentiment against the occupation and provide yet another specific cause around which the nationalists could coalesce. ... News of the Serves accord had precisely the effect that Admiral Bristol and others had predicted. It was one thing for Ottoman officials to give up the outlying parts of the empire but agreeing to the effective partition of Anatolia and the elimination of local control over Istanbul and the Straits was a monumental concession.
+* In early October 1920, King Alexander of Greece went walking with his German shepherd. Along the way, his dog leapt on a Barbary macaque, a monkey that belonged to one of the palace gardeners. Another monkey rallied to the defense, and the king ended up with a severe bite. He thought little of it at the time, but within a few days the bite turned septic. The king took to his bed and died before the month was out.
 * Some 213000 people, mainly Greek Orthodox and Armenian families who had lived in Smyrna for countless generations, left it for good. Three-quarters of the city was in ruins.
 * "Foreigners are nervous ... remembering the fate of Smyrna," Ernest Hemingway reported from the scene, "and have booked outgoing trains for the weeks ahead."
 * Mehmed joined the British commander for his last crossing of the Bosphorus, a short ride to the British battleship *Malaya*, and a long sea journey toward voluntary exile. Harington had hoped the sultan would give him a small token to commemorate the event - a cigarette case, perhaps - but Mehmed instead entrusted him with looking after his five wives, whom he left at the palace.
@@ -44,9 +44,9 @@
 
 ### Konstantinoupolis
 
-* "Anything more like a lunatic asylum than Haidar Pasha Station cannot be imagined," recalled Agatha Christie on her first visit in the 1920s. ... she bypassed Pera Palace and stated at the Tokatlian Hotel on the Grande Rue.
+* "Anything more like a lunatic asylum than Haidar Pasha Station cannot be imagined," recalled Agatha Christie on her first visit in the 1920s. ... she bypassed Pera Palace and stayed at the Tokatlian Hotel on the Grande Rue.
 * At that point, the city was part of an emerging nation-state, not an empire, but any newsagent would have laughed at the idea that Istanbullus might ever be squeezed into a single national identity. Istanbul had eleven newspaper in Ottoman Turkish, seven in Greek, six in French, five in Armenian, four in Ladino and other languages spoken by local Jews and one in English.
-* Disputed between pro-Hellenic and pro-patriarchal factions sometimes erupted into violence. In the summer of 1923, a band of Hellenic nationalists broke into the patriarchate, interrupted a meeting, and dragged the patriarch, Meletios IV, down a staircase, before the melee was stopped by Allied police. The patriarch promptly excommunicated the leaders of the mob. Fed up, Meletios soon left Istanbul and retired to a quiet monastery on Mount Athos.
+* Disputes between pro-Hellenic and pro-patriarchal factions sometimes erupted into violence. In the summer of 1923, a band of Hellenic nationalists broke into the patriarchate, interrupted a meeting, and dragged the patriarch, Meletios IV, down a staircase, before the melee was stopped by Allied police. The patriarch promptly excommunicated the leaders of the mob. Fed up, Meletios soon left Istanbul and retired to a quiet monastery on Mount Athos.
 * Turkish negotiators had originally proposed the expulsion of the entire Greek population of Istanbul. If allowed to remain, Greeks would be "the means of importing corruption and disloyalty into our country," insisted Ismet Pasha. The hellenic government argued that adding more Greek refugees would create a humanitarian disaster
 * The Lausanne treaty mandated the compulsory exile of around a million Greek Orthodox and five hundred thousand Muslims.
 * Lausanne was a schizophrenic treaty. Parts of it contained the blueprint for uprooting a million and half people. Other portions seemed a multiculturalist's model for protecting the rights of minorities.
@@ -58,7 +58,7 @@
 
 ### The Post-War World Was Jazzing
 
-* "The man who raises a thirst somewhere east of Suez is going to be unable to slake it in Constantinople once Kemal enters the city," Hemingway predicted.
+* "The man who raises a thirst somewhere east of Suez is going to be unable to shake it in Constantinople once Kemal enters the city," Hemingway predicted.
 * With the elimination of the sultanate in 1922, Yildiz palace complex was repurposed into a casino.
 * In 1926, municipal authorities issued orders banning the Charleston - not because it offended Muslim sensibilities but because record numbers of people were being admitted to the hospital for sprains and bruises.
 * Until well into the twentieth century, a home-cooked meal was a rarity. This mode of dining was almost exclusively the purview of the wealthy, who could afford a permanent kitchen in their villa or mansion.
