@@ -11,3 +11,7 @@
 * [Fluent Forever](./2020/fluent_forever.md)
 * [Midnight at the Pera Palace](./2020/midnight_pera_palace.md)
 * [White Fragility](./2020/white_fragility.md)
+
+### 2021
+
+* [The Happiness Advantage](./2021/happiness_advantage.md)
