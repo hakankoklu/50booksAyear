@@ -78,13 +78,13 @@
 		
 * participants who wrote down three good things each day for a week were happier and less depressed at the one-month, three-month, and six-month follow-ups.16 More amazing: Even after stopping the exercise, they remained significantly happier and showed higher levels of optimism. 
 
-# Principle #4: Falling Up
+### Principle #4: Falling Up
 
 * ... if we are able to conceive of a failure as an opportunity for growth, we are all the more likely to experience that growth. Conversely, if we conceive of a fall as the worst thing in the world, it becomes just that.
 
 * People with an optimistic explanatory style interpret adversity as being local and temporary (i.e., “It’s not that bad, and it will get better.”) while those with a pessimistic explanatory style see these events as more global and permanent (i.e., “It’s really bad, and it’s never going to change.”). Their beliefs then directly affect their actions; the ones who believe the latter statement sink into helplessness and stop trying, while the ones who believe the former are spurred on to higher performance.
 		
-# Principle #5: The Zorro Circle
+### Principle #5: The Zorro Circle
 
 * If, however, we first concentrate our efforts on small manageable goals, we regain the feeling of control so crucial to performance. By first limiting the scope of our efforts, then watching those efforts have the intended effect, we accumulate the resources, knowledge, and confidence to expand the circle, gradually conquering a larger and larger area.
 
@@ -100,7 +100,7 @@
 		
 * Small successes can add up to major achievements. All it takes is drawing that first circle in the sand.
 
-# Principle #6: The 20-Second Rule 
+### Principle #6: The 20-Second Rule 
 
 * As the researchers wrote, “many widely different forms of self-control draw on a common resource, or self-control strength, which is quite limited and hence can be depleted readily.”10 Put another way, our willpower weakens the more we use it.
 		
