@@ -258,7 +258,7 @@ We can help others trust that we are requesting, not demanding, by indicating th
 
 * If we wish to fully express anger, the first step is to divorce the other person from any responsibility for our anger. Instead we shine the light of consciousness on our own feelings and needs. By expressing our needs, we are far more likely to get them met than by judging, blaming, or punishing others.
 
-### Chpater 11: The Protective Use of Force
+### Chapter 11: The Protective Use of Force
 
 * The intention behind the protective use of force is to prevent injury or injustice, never to punish or to cause individuals to suffer, repent, or change. The punitive use of force tends to generate hostility and to reinforce resistance to the very behavior we are seeking.
 
