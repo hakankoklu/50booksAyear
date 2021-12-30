@@ -1,4 +1,6 @@
-## Carrying the Fire: An Astronaut's Journeys
+## Carrying the Fire
+
+##### An Astronaut's Journeys
 
 ##### by Michael Collins
 
