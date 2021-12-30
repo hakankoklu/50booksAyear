@@ -8,7 +8,7 @@
 
 * The challenge and the mission are to find real solutions to real problems on actual schedules with available resources.
 
-* our estimating techniques fallaciously confuse effort with progress, hiding the assumption that people and months are interchangeable.
+* ... our estimating techniques fallaciously confuse effort with progress, hiding the assumption that people and months are interchangeable.
 
 * Fifth, when schedule slippage is recognized, the natural (and traditional) response is to add human power. Like dousing a fire with gasoline, this makes matters worse, much worse. More fire requires more gasoline, and thus begins a regenerative cycle which ends in disaster.
 
@@ -58,7 +58,7 @@
 
 * All software construction involves essential tasks, the fashioning of the complex conceptual structures that compose the abstract software entity, and accidental tasks, the representation of these abstract entities in programming languages and the mapping of these onto machine languages within space and speed constraints.
 
-* the time has come to address the essential parts of the software task, those concerned with fashioning abstract conceptual structures of great complexity. I suggest:
+* ... the time has come to address the essential parts of the software task, those concerned with fashioning abstract conceptual structures of great complexity. I suggest:
     * Exploiting the mass market to avoid constructing what can be bought. 
     * Using rapid prototyping as part of a planned iteration in establishing software requirements.
     * Growing software organically, adding more and more function to systems as they are run, used, and tested.
@@ -70,7 +70,7 @@
 
 * If this is true, building software will always be hard. There is inherently no silver bullet.
 
-* the inherent properties of this irreducible essence of modern software systems: complexity, conformity, changeability, and invisibility.
+* ... the inherent properties of this irreducible essence of modern software systems: complexity, conformity, changeability, and invisibility.
 
 * Complexity. Software entities are more complex for their size than perhaps any other human construct, because no two parts are alike
 
@@ -90,13 +90,13 @@
 
 * Inference engine technology is developed in an application independent way, and then applied to many uses. One can justify much more effort on the inference engines.
 
-* the power of such systems does not come from ever-fancier inference mechanisms, but rather from ever-richer knowledge bases that reflect the real world more accurately.
+* ... the power of such systems does not come from ever-fancier inference mechanisms, but rather from ever-richer knowledge bases that reflect the real world more accurately.
 
 * Requirements refinement and rapid prototyping. The hardest single part of building a software system is deciding precisely what to build. No other part of the conceptual work is so difficult as establishing the detailed technical requirements, including all the interfaces to people, to machines, and to other software systems. No other part of the work so cripples the resulting system if done wrong. No other part is more difficult to rectify later.
 
 * I would go a step further and assert that it is really impossible for clients, even those working with software engineers, to specify completely, precisely, and correctly the exact requirements of a modern software product before having built and tried some versions of the product they are specifying.
 
-* any software system should be grown by incremental development. That is, the system should first be made to run, even though it does nothing useful except call the proper set of dummy subprograms. Then, bit by bit it is fleshed out, with the subprograms in turn being developed into actions or calls to empty stubs in the level below.
+* ... any software system should be grown by incremental development. That is, the system should first be made to run, even though it does nothing useful except call the proper set of dummy subprograms. Then, bit by bit it is fleshed out, with the subprograms in turn being developed into actions or calls to empty stubs in the level below.
 
 * The fate of WIMP: Obsolescence. Despite its excellencies, I expect the WIMP interface to be a historical relic in a generation. Pointing will still be the way to express nouns as we command our machines; speech is surely the right way to express the verbs. Tools such as Voice Navigator for the Mac and Dragon for the PC already provide this capability.
 

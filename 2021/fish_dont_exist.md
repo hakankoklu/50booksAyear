@@ -1,6 +1,6 @@
 ## Why Fish Don't Exist
 
-##### A Story Of Loss, Love, ant the Hidden Order of Life
+##### A Story Of Loss, Love, and the Hidden Order of Life
 
 ##### by Lulu Miller
 
@@ -44,15 +44,15 @@
 
 * In the wake of these talks and similar ones given by other early eugenicists, back-alley sterilizations and, occasionally, executions began taking place all over America.
 
-* eugenics seemed as roaring a part of American culture as flappers and the Model T. This was not a fringe movement; it crossed party lines; the first five presidents of the twentieth century hailed its promise; eugenics courses were taught at prestigious universities all across the country, from Harvard to Stanford to Yale to UC Berkeley to Princeton and back again. There were eugenics magazines. Eugenics cosmetics. Even eugenics competitions. Often held at state fairs, under festive white tents. Contests would be held for the fittest families and best babies—measured and weighed like pumpkins. Blue ribbons for the fairest skin, the roundest head, the most symmetrical features.
+* ... eugenics seemed as roaring a part of American culture as flappers and the Model T. This was not a fringe movement; it crossed party lines; the first five presidents of the twentieth century hailed its promise; eugenics courses were taught at prestigious universities all across the country, from Harvard to Stanford to Yale to UC Berkeley to Princeton and back again. There were eugenics magazines. Eugenics cosmetics. Even eugenics competitions. Often held at state fairs, under festive white tents. Contests would be held for the fittest families and best babies—measured and weighed like pumpkins. Blue ribbons for the fairest skin, the roundest head, the most symmetrical features.
 
 * Slowly, more and more states passed sterilization laws. Connecticut. Iowa. New Jersey. Have a sexually transmitted disease? Snip. An epileptic seizure? Snip. An out-of-wedlock baby, a criminal record, a low score on a standardized test? Snip. Snip Snip.
 
-* in 1916, an American eugenicist named Madison Grant published a book that a German guy named Hitler would later call his “bible.” In the book, The Passing of the Great Race, Grant proposed a policy that, in certain ways, resembled Galton’s sci-fi vision: that all the nation’s “moral perverts, mental defectives and hereditary cripples” be rounded up under the guise of charity and sterilized. American eugenicists thought it was brilliant. When over a decade later Hitler passed Germany’s first mandatory sterilization law, American eugenicist and doctor Joseph DeJarnette whined, “The Germans are beating us at our own game.”
+* ... in 1916, an American eugenicist named Madison Grant published a book that a German guy named Hitler would later call his “bible.” In the book, The Passing of the Great Race, Grant proposed a policy that, in certain ways, resembled Galton’s sci-fi vision: that all the nation’s “moral perverts, mental defectives and hereditary cripples” be rounded up under the guise of charity and sterilized. American eugenicists thought it was brilliant. When over a decade later Hitler passed Germany’s first mandatory sterilization law, American eugenicist and doctor Joseph DeJarnette whined, “The Germans are beating us at our own game.”
 
 * Carrie’s case paved the way for over 60,000 sterilizations, performed legally and against people’s will, all over America in the name of “public welfare.”
 
-* those deemed unfit were “often were young women pronounced promiscuous; the sons and daughters of Mexican, Italian, and Japanese immigrants… and men and women who transgressed sexual norms.” Other studies have shown how women of color were disproportionately targeted for sterilization. The US government has admitted to forcefully sterilizing over 2,500 Native American women in the early 1970s. The Eugenics Board of North Carolina sought out and sterilized hundreds of black women during the 1960s and 1970s. And, mind bogglingly, approximately a third of all Puerto Rican women were sterilized by the US government between 1933 and 1968.
+* ... those deemed unfit were “often were young women pronounced promiscuous; the sons and daughters of Mexican, Italian, and Japanese immigrants… and men and women who transgressed sexual norms.” Other studies have shown how women of color were disproportionately targeted for sterilization. The US government has admitted to forcefully sterilizing over 2,500 Native American women in the early 1970s. The Eugenics Board of North Carolina sought out and sterilized hundreds of black women during the 1960s and 1970s. And, mind bogglingly, approximately a third of all Puerto Rican women were sterilized by the US government between 1933 and 1968.
 
 * David Starr Jordan remained an ardent eugenicist until his dying day. There’s no evidence of any last-moment realization or remorse.
 
@@ -66,10 +66,10 @@
 
 * I was still sure that our ruler was uncaring and cold, that waiting around the corner for each of us was precisely nothing. No promises. No refuge. No gleaming. No matter what we did or how much we mattered to one another.
 
-* the reverence for David Starr Jordan seemed only to solidify over time. If you stroll Stanford’s campus today, you will find a bronze bust of him in the library, a psychology building bearing his name, portraits of him in ornate frames.
+* ... the reverence for David Starr Jordan seemed only to solidify over time. If you stroll Stanford’s campus today, you will find a bronze bust of him in the library, a psychology building bearing his name, portraits of him in ornate frames.
 
-* from the time of cavemen to his present day, he and his disciples unveiled nearly a fifth of that scaly section of the tree of life. The fact that many of his fish were in fact discovered by the very targets of his eugenicist campaign—the immigrants and “paupers” whose value to society he dismissed—was something David chose to omit from the scientific record.
+* ... from the time of cavemen to his present day, he and his disciples unveiled nearly a fifth of that scaly section of the tree of life. The fact that many of his fish were in fact discovered by the very targets of his eugenicist campaign—the immigrants and “paupers” whose value to society he dismissed—was something David chose to omit from the scientific record.
 
 * David Starr Jordan was allowed to emerge unscathed, unpunished for his sins, because this is the world in which we live. An uncaring world with no sense of cosmic justice encoded anywhere in its itchy, meaningless fabric.
 
-* the more scientifically logical thing to do is to admit that fish, all this time, have been a delusion. Fish don’t exist. The category “fish” doesn’t exist. That category of creature so precious to David, the one that he turned to in times of trouble, that he dedicated his life to seeing clearly, was never there at all.
+* ... the more scientifically logical thing to do is to admit that fish, all this time, have been a delusion. Fish don’t exist. The category “fish” doesn’t exist. That category of creature so precious to David, the one that he turned to in times of trouble, that he dedicated his life to seeing clearly, was never there at all.
