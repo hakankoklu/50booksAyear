@@ -24,3 +24,7 @@
 * [Breath](./2021/breath.md)
 * [Homegoing](./2021/homegoing.md)
 * [The Mythical Man-Month](./2021/mm-m.md)
+
+### 2022
+
+* [I Don't Want to Talk About It](./2022/dont_want_to_talk.md)
